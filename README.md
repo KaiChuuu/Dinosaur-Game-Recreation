@@ -14,9 +14,11 @@ https://youtu.be/x4zw4AwXctA
 
 ## Download link for the game only 
 
-https://drive.google.com/drive/folders/1hGBYNhOxN6XGQunfPfULzbwxPyiy21-C?usp=sharing
+https://drive.google.com/drive/folders/1ZOvrLZItOXfIyE-sq3h73hYmuh5ymPoI?usp=sharing
 
 *.dll files need to be in same file path as .exe.*
+
+*asset folders must also be in same file path*
 
 
 ## Build
