@@ -4,7 +4,7 @@
 #include <SFML/Graphics.hpp>
 
 Game::Game()
-    : mWindow(sf::VideoMode(740, 250), "Dinosaur Game recreated by Kai Chu"),
+    : mWindow(sf::VideoMode(740, 250), "Dinosaur Game recreated by RedDogClifford"),
       timePerFrame(sf::seconds(1.f / 60.f)),
       scoreboard(mWindow.getSize().x),
       gameLevelY(mWindow.getSize().y - 50),
