@@ -1,9 +1,7 @@
 # Dinosaur-Game-Recreation
 Recreated Google's Dinosaur Game using SFML.
 
-<a href="https://github.com/RedDogClifford/Dinosaur-Game-Recreation/">
-  <img src="/Dinosaur Game/gameplayImages/dinosaur-game-recreated-gameplay.jpg" width="750" height="250">
-</a>
+![](https://media.giphy.com/media/UwXWVbt9wvlSM4P5FV/giphy.gif)
 
 Made by RedDogClifford.
 
